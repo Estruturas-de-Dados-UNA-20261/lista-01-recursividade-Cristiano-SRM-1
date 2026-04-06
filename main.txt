@@ -1,1 +1,3 @@
 branch main n/d
+1- branch exercicio-1 atividade elevação (git checkout exercicio-1)
+2- branch exercicio-2 atividade impressão reversa (git checkout exercicio-2)
