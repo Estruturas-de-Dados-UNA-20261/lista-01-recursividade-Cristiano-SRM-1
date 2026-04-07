@@ -17,7 +17,6 @@ public class RecursividadeElevacao {
        int resultado = elevacao(x, y);
 
        System.out.println("O primeiro valor elevado ao segundo é: " + resultado);
-    }
-
-   
+       input.close();
+    }  
 }
